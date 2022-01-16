@@ -6,3 +6,7 @@ consistency loss of image reconstruction from a distribution to the target one h
 containing the style feature of the objective distribution from the image of the original one without requiring any paired supportive similarity. 
 
 Keywords—GAN, CNN, convolutional layers.
+
+The report of the project can be viewed in this Google Drive Link: https://drive.google.com/file/d/1hQLZC2AHNlFqR6J_Ej6855lZJp99WQld/view?usp=sharing
+
+The data used for the project is cow-horse dataset.
